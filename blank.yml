@@ -12,9 +12,5 @@ jobs:
           FIRST_NAME: Wong
           MIDDLE_NAME: Ching
           LAST_NAME: Yan
-<<<<<<< HEAD
-        run:
-=======
         run: 
->>>>>>> 0486af28eb741fa9f22e198b65bdd3d977ed5db3
           echo $MY_VAR $FIRST_NAME $MIDDLE_NAME $LAST_NAME.
